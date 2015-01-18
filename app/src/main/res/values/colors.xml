@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lightgray">#bfbfbf</color>
+    <color name="black">#000000</color>
+    <color name="darkgray">#202020</color>
+    <color name="darkyellow">#ffa500</color>
+</resources>
